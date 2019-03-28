@@ -1,3 +1,6 @@
+SET(PROTOBUF_LIBRARY "/home/chuancen/.brew/Cellar/protobuf/3.7.0/lib/libprotobuf.so")
+SET(PROTOBUF_INCLUDE_DIR "/home/chuancen/.brew/Cellar/protobuf/3.7.0/include/google/protobuf/")
+
 CMAKE_MINIMUM_REQUIRED(VERSION 2.6 FATAL_ERROR)
 CMAKE_POLICY(VERSION 2.6)
 
